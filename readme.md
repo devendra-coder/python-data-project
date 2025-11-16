@@ -16,12 +16,6 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 
 To find the most demanded skills for the top 3 most popular data roles. I filtered out those positions by which ones were the most popular, and got the top 5 skills for these top 3 roles. This query highlights the most popular job titles and their top skills, showing which skills I should pay attention to depending on the role I'm targeting.
 
-<<<<<<< HEAD
-View my notebook with detailed steps here: [2_Skills_Demand.ipynb](2_project/2_Skill_Demand.ipynb.ipynb)
-=======
-View my notebook with detailed steps here: [2_Skills_Demand](2_project/2_Skill_Demand.ipynb)
->>>>>>> 29d1a9e24f4af565620f7d008ac9519e5b243657
-
 ### Visualize Data
 
 ```python
@@ -100,5 +94,3 @@ plt.show()
 - SQL remains the most consistently demanded skill throughout the year, although it showed a gradual decrease in demand but now it is again in demand.
 - Excel experienced a **significant increase in demand starting around May**, surpassing both Python and Tableau by the end of the year.
 - Both Python and Tableau show relatively stable demand throughout the year with some fluctuations but remain essential skills for data analysts. Power BI, while less demanded compared to the others, shows a slight upward trend towards the year's end.
-=======
->>>>>>> 29d1a9e24f4af565620f7d008ac9519e5b243657
